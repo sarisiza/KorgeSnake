@@ -1,9 +1,6 @@
-# Korge Hello World and Template
+# Korge Snake
 
-This is a Hello World and Template for the KorGe game engine. Using gradle with kotlin-dsl.
-You can open this project in IntelliJ IDEA by opening the folder or the build.gradle.kts file.
+## Example
 
-You can find this template at GitHub: <https://github.com/korlibs/korge-hello-world>
-
-
-You can find the KorGE documentation here: <https://docs.korge.org/korge/>
+<img width="850" height="850" alt="korge64_XCuSLUVxRA" src="https://github.com/user-attachments/assets/cf7fe630-cf8b-48ad-b40e-256f83cb6eec" />
+<img width="850" height="850" alt="korge64_XCuSLUVxRA" src="https://github.com/user-attachments/assets/cf7fe630-cf8b-48ad-b40e-256f83cb6eec" />

@@ -33,10 +33,10 @@ class MyScene : Scene() {
         wallProvider.createWalls(tileMap.map)
         // creating the snake
         val snake = Snake(
-            setOf(
-                SnakePiece(PointInt(screenWidth/2, screenHeight/2),true),
+            listOf(
+                SnakePiece(PointInt(screenWidth/2, screenHeight/2), isHead = true),
                 SnakePiece(PointInt(screenWidth/2 + 1,screenHeight/2)),
-                SnakePiece(PointInt(screenWidth/2 + 2,screenHeight/2))
+                SnakePiece(PointInt(screenWidth/2 + 2,screenHeight/2)),
             )
         )
         snake.render(tileMap.map)
